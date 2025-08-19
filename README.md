@@ -1,2 +1,2 @@
-# modder.me.github.io
+# modder.me
 An MOD APK Appstore on Android
